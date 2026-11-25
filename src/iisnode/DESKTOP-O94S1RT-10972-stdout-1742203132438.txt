@@ -1,0 +1,21 @@
+RESTful API server started on: \\.\pipe\1eb95e04-72dc-4e48-b35d-62e5c1087f83
+[0mGET /api/ [33m404[0m 2.243 ms - 143[0m
+Connected to SQL Server
+[0mGET /api/utils/get-ip [33m404[0m 1.823 ms - 155[0m
+[0mPOST /api/administrator/insertAudittrail [32m200[0m 75.436 ms - 37[0m
+[0mGET /api/utils/get-ip [33m404[0m 0.336 ms - 155[0m
+[0mPOST /api/administrator/insertAudittrail [32m200[0m 28.182 ms - 37[0m
+[0mPOST /api/auth/login [32m200[0m 71.537 ms - -[0m
+[0mPOST /api/administrator/insertAudittrail [32m200[0m 26.602 ms - 37[0m
+[0mPOST /api/dash/getDashBoardCount [32m200[0m 52.928 ms - 135[0m
+[0mPOST /api/dash/getDashBoardGraph [32m200[0m 70.280 ms - 111[0m
+[0mPOST /api/dash/getDashBoardCount [32m200[0m 89.105 ms - 135[0m
+[0mPOST /api/dash/getDashBoardLast50Trans [32m200[0m 85.955 ms - -[0m
+[0mPOST /api/dash/getDashBoardLast50Trans [32m200[0m 107.932 ms - -[0m
+[0mPOST /api/dash/getDashBoardGraph [32m200[0m 114.365 ms - 111[0m
+[0mPOST /api/dash/getDashBoardCount [32m200[0m 83.571 ms - 135[0m
+[0mPOST /api/dash/getDashBoardGraph [32m200[0m 68.597 ms - 111[0m
+[0mPOST /api/dash/getDashBoardLast50Trans [32m200[0m 79.120 ms - -[0m
+[0mPOST /api/dash/getDashBoardCount [32m200[0m 61.763 ms - 135[0m
+[0mPOST /api/dash/getDashBoardGraph [32m200[0m 71.738 ms - 111[0m
+[0mPOST /api/dash/getDashBoardLast50Trans [32m200[0m 81.870 ms - -[0m

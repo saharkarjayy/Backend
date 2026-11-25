@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError [ERR_INVALID_ARG_TYPE]: The "password" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received undefined
+    at check (node:internal/crypto/scrypt:83:14)
+    at Object.scryptSync (node:internal/crypto/scrypt:66:13)
+    at Object.<anonymous> (D:\MY-ALL-PROJECT\LandT\LandTPune\L&T API\src\utils\passswordHelper.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\MY-ALL-PROJECT\LandT\LandTPune\L&T API\src\dao\auth_Dao.js:3:29)
